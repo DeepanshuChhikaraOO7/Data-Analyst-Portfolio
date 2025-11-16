@@ -93,5 +93,3 @@ SQL (PostgreSQL), DBeaver, Power BI
 - Email: **deepchhikara08@gmail.com**
 - LinkedIn: [linkedin.com/in/deepanshu-chhikara](https://www.linkedin.com/in/deepanshu-chhikaraoo7)
 - Resume (Google Drive link): [**Deepanshu_Chhikara**](https://drive.google.com/file/d/1Cv10X2gmPhOS_DQPd01AFrfBVL3dIoQt/view?usp=sharing)
-
----
